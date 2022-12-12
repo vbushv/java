@@ -10,8 +10,7 @@ public class test3 {
 
 		System.out.println("dev");
 		System.out.println("dev1111");
-		System.out.println("dev2222"
-				+ "");
+		System.out.println("dev2222");
 	}
 	
 }
